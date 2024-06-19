@@ -1,1 +1,1 @@
-httpd
+docker pull rockylinux:9.3.20231119-minimal@sha256:99a073e7e92dc4cd2882c9418936bdd1c2298279c5af0f3642261286e135f6c7
