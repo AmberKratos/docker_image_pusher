@@ -1,1 +1,1 @@
-kasmweb/rockylinux-8-desktop
+rockylinux/rockylinux
